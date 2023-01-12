@@ -1,0 +1,8 @@
+me01   Banawat   48   48   45   2500
+me21   Zest   48   43   50   3000
+me31   Merino   39   47   44   2700
+me41   Hamaliya   48   47   50   3500
+me51   Sherwani   45   40   46   6000
+me61   Jodhpuri   47   47   47   5500
+me71   Afghani   47   40   50   7000
+me81   Achkan   47   47   46   6800

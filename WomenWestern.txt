@@ -1,0 +1,15 @@
+wt01   Henley-Collar   50   46   47   750
+wt11   Baseball-tshirt   47   47   42   800
+wt21   Raglan-Sleeves   41   48   50   600
+wt31   Polo-Collar   50   50   50   700
+wt41   V-neck-shirt   50   50   50   500
+ww01   Denim-jacket   50   48   40   1200
+ww11   Quilted-jacket   47   50   50   1000
+ww21   Blazer-jacket   47   46   30   1000
+ww31   Sweat-hoodey   47   48   50   1100
+ww41   Leather-jacket   47   47   47   1500
+wj11   Denim-jeans   50   47   45   1000
+wj21   Skinny-jeans   48   45   47   800
+wj31   Straight-jeans   49   48   45   800
+wj41   Relaxed-jeans   46   50   47   1200
+wj51   High-rise-jeans   46   46   41   1300

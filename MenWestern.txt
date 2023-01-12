@@ -1,0 +1,15 @@
+ms01   Classic-Shirt   50   46   46   800
+ms11   Checks-Shirt   50   50   50   900
+ms21   Flanel-Shirt   50   50   47   700
+ms31   Office-Shirt   50   47   50   800
+ms41   Dress-Shirt   50   50   47   1000
+mw01   Denim-Jacket   48   47   50   1500
+mw11   Hoody/Jacket   50   48   50   1200
+mw21   Romber-Jacket   50   47   47   1300
+mw31   Woolen-Jacket   50   41   50   1000
+mw41   Leather-Jacket   47   50   50   1800
+mj01   Denim-Jeans   50   47   47   1100
+mj11   Bootcut-Jeans   50   40   47   1100
+mj21   Loose-Jeans   47   36   47   1000
+mj31   Flared-Jeans   37   47   48   950
+mj41   Ripped-Jeans   50   45   50   1200
